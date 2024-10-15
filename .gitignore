@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.pyc
+weights/
+inference_results.log
+results_directory

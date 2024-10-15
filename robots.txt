@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /_export/
+Disallow: /old/
+Disallow: /tumvi/
+Disallow: /double-sphere/
+Sitemap: http://vision.in.tum.de/?do=sitemap
